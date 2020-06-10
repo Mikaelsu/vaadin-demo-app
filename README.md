@@ -1,2 +1,0 @@
-# KuduTest
-KuduTest for Azure
